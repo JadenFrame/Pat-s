@@ -57,6 +57,7 @@ body, html {
   overflow: hidden;
   background-color: #faebd7;
   font-family: Arial;
+   outline: #796046;
 }
 
 /* Links inside the navbar */
