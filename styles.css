@@ -82,7 +82,7 @@ body, html {
   font-size: 16px;
   border: none;
   outline: none;
-  color: white;
+  color: #faebd7;
   padding: 14px 16px;
   background-color: inherit;
   font-family: inherit; /* Important for vertical align on mobile phones */
@@ -98,7 +98,7 @@ body, html {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #f9f9f9;
+  background-color: #faebd7;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
@@ -114,9 +114,9 @@ body, html {
   text-align: left;
 }
 
-/* Add a grey background color to dropdown links on hover */
+/* Add a background color to dropdown links on hover */
 .dropdown-content a:hover {
-  background-color: #ddd;
+  background-color: #796046;
 }
 
 /* Show the dropdown menu on hover */
