@@ -28,6 +28,9 @@ p.about{
     border-radius: 12px;
     padding: 5px;
 }
+.Galleryimg{ 
+  float: Center;
+}
 
 a {
   text-decoration: none;
