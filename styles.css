@@ -69,7 +69,7 @@ body, html {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  text-shadow: 2px 2px 5px brown;
+  text-shadow: 2px 2px 5px black;
 }
 
 /* The dropdown container */
@@ -83,6 +83,7 @@ body, html {
   font-size: 16px;
   border: none;
   color: white;
+  text-shadow: 2px 2px 5px black;
   outline: black;
   padding: 14px 16px;
   background-color: inherit;
