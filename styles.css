@@ -29,7 +29,9 @@ p.about{
     padding: 5px;
 }
 .Galleryimg{ 
-  float: right;
+   display: block;
+    margin-left:auto;
+    margin-right:auto;
   
 }
 
