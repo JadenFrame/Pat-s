@@ -69,8 +69,7 @@ body, html {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-   text-shadow: 2px 2px 5px brown;
-  outline: #796046;
+  text-shadow: 2px 2px 5px brown;
 }
 
 /* The dropdown container */
@@ -83,7 +82,6 @@ body, html {
 .dropdown .dropbtn {
   font-size: 16px;
   border: none;
-  outline: none;
   color: white;
   outline: black;
   padding: 14px 16px;
