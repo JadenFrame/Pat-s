@@ -69,7 +69,7 @@ body, html {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  text-shadow: 2px 2px;
+   text-shadow: 2px 2px 5px brown;
   outline: #796046;
 }
 
