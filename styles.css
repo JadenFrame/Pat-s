@@ -48,9 +48,11 @@ html{
   background-color: rgb(250, 235, 215);
 /*#faebd7*/
 }
+
 body, html {
     height: 100%;
 }
+
 /* Navbar container */
 .navbar {
   overflow: hidden;
@@ -67,6 +69,7 @@ body, html {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  text-shadow: 2px 2px;
   outline: #796046;
 }
 
